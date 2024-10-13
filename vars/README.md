@@ -11,7 +11,7 @@ None
 Role Variables
 --------------
 
-to prevent possible DNS leaking, replace 1.1.1.1 in the set_dhcp_config.yml file to the IP of your VPN server.
+to prevent possable DNS leaking, replace 1.1.1.1 in the set_dhcp_config.yml file to the IP of your VPN server.
 
 Dependencies
 ------------
